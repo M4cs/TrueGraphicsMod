@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueGraphicsMod", "TrueGraphicsMod.csproj", "{E8039482-3D66-4E78-BE4D-F34ED9F6932E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarXQoL", "..\CarXQoL\CarXQoL.csproj", "{8ABFC47C-9AE6-4BBB-B648-1FDBB6067ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraUtils", "..\ChromaFix\CameraUtils.csproj", "{171CECA9-65B1-499E-ACD3-1E9885C0AF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8039482-3D66-4E78-BE4D-F34ED9F6932E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8039482-3D66-4E78-BE4D-F34ED9F6932E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8039482-3D66-4E78-BE4D-F34ED9F6932E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8039482-3D66-4E78-BE4D-F34ED9F6932E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABFC47C-9AE6-4BBB-B648-1FDBB6067ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABFC47C-9AE6-4BBB-B648-1FDBB6067ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABFC47C-9AE6-4BBB-B648-1FDBB6067ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABFC47C-9AE6-4BBB-B648-1FDBB6067ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171CECA9-65B1-499E-ACD3-1E9885C0AF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171CECA9-65B1-499E-ACD3-1E9885C0AF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171CECA9-65B1-499E-ACD3-1E9885C0AF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171CECA9-65B1-499E-ACD3-1E9885C0AF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B99BC3-7830-4F1B-9C39-FA3059822800}
+	EndGlobalSection
+EndGlobal
